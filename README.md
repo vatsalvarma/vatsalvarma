@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋 I'm Vatsal</h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
-</p>
-
 <!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff0080&height=200&section=header&text=Vatsal%20Varma&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -14,11 +10,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Designer;Creative+Coder;Tech+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
+</p>
+
+
 ### 🚀 About Me
 - 💻 Web Developer  
 - 🎮 Gamer  
-- 🔥 Building cool web projects  
+- 🔥 Building cool web projects
 
+- ## 🎧 Spotify – Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q7e3z4jv3z4l7yrfdyx2n3wqpe&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
+</p>
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vatsalvarma&label=Profile%20Views&color=ff007f&style=for-the-badge" />
+</p>
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/vatsalvarma">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:gamesvatsal99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff4500?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <!--
