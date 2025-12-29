@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vatsal</h1>
-
-<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff0080&height=200&section=header&text=Vatsal%20Varma&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- TYPING TEXT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Designer;Creative+Coder;Tech+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vatsal%20Varma&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 </p>
 
 <p align="center">
