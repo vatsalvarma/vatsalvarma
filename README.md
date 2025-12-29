@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 I'm Vatsal</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=VATSAL%20VARMA&fontSize=50&fontColor=ffffff&color=0:8e2de2,100:4a00e0&animation=twinkling&desc=Web%20Developer%20%7C%20Creative%20Coder&descAlign=50&descAlignY=65" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=9F5FFF&center=true&vCenter=true&width=500&lines=Futuristic+Web+Developer;UI%2FUX+Designer;Creative+Thinker" />
 </p>
->
 
 <p align="center">
   <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
