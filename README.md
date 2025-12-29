@@ -4,6 +4,15 @@
   <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
 </p>
 
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff0080&height=200&section=header&text=Vatsal%20Varma&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Designer;Creative+Coder;Tech+Enthusiast" />
+</p>
 
 ### 🚀 About Me
 - 💻 Web Developer  
