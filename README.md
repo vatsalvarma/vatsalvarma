@@ -23,7 +23,7 @@ WORKS:
 
 ## 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vatsalvarma&label=Profile%20Views&color=ff007f&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vatsalvarma&label=Profile%20Views&color=ff007f&style=for-the-badge" target="_blank" />
 </p>
 
 ## 🌐 Connect With Me
