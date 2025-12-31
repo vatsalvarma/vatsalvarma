@@ -21,7 +21,7 @@ WORKS:
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" />  
       vist: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home (live webart for fun)<br>
       portfolio and projects:<br>
-      vist: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ (portfolio and projects) <br>
+      vist: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
       (live webart for fun)<br>
       vist: -> https://vatsalvarma.github.io/NFS-live-website/ <br>
       (live webart for fun)<br>
