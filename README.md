@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vatsal</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=9F5FFF&center=true&vCenter=true&width=500&lines=Futuristic+Web+Developer;UI%2FUX+Designer;Creative+Thinker" />
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
-</p>
-
-
-### 🚀 About Me
+### 🚀 About Me ##
 - 💻 Web Developer  
 - 🎮 Gamer  
 - 🔥 Building cool web projects
@@ -34,8 +25,17 @@ WORKS:
       vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
 
 ## 👀 Profile Visitors
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsalvarma&label=Profile%20Views&color=ff007f&style=for-the-badge" target="_blank" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=9F5FFF&center=true&vCenter=true&width=500&lines=Futuristic+Web+Developer;UI%2FUX+Designer;Creative+Thinker" />
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
 </p>
 
 ## 🌐 Connect With Me
