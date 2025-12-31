@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="600">
+  <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="800">
 </p>
 
 
