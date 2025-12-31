@@ -28,6 +28,10 @@ WORKS:
       vist: -> https://vatsalvarma.github.io/V-Seasons-Live-Webste/<br>
       (companysite/portfolio)<br>
       vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ <br>
+      (game-store) <br>
+      vist: -> https://vatsalvarma.github.io/v-gamestore/ <br>
+      (E-commerce website) <br>
+      vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
 
 ## 👀 Profile Visitors
 <p align="center">
