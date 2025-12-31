@@ -20,14 +20,14 @@
 WORKS:  
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" />  
       vist: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home (live webart for fun)<br>
-      (portfolio and projects)<br>
+      portfolio and projects:<br>
       vist: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ (portfolio and projects) <br>
-      (live webart for fun)
-      vist: -> https://vatsalvarma.github.io/NFS-live-website/ 
-      (live webart for fun)
-      vist: -> https://vatsalvarma.github.io/V-Seasons-Live-Webste/
-      (companysite/portfolio)
-      vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ (companysite/portfolio)
+      (live webart for fun)<br>
+      vist: -> https://vatsalvarma.github.io/NFS-live-website/ <br>
+      (live webart for fun)<br>
+      vist: -> https://vatsalvarma.github.io/V-Seasons-Live-Webste/<br>
+      (companysite/portfolio)<br>
+      vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ (companysite/portfolio)<br>
 
 ## 👀 Profile Visitors
 <p align="center">
