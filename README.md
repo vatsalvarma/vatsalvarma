@@ -27,7 +27,7 @@ WORKS:
       (live webart for fun)<br>
       vist: -> https://vatsalvarma.github.io/V-Seasons-Live-Webste/<br>
       (companysite/portfolio)<br>
-      vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ (companysite/portfolio)<br>
+      vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ <br>
 
 ## 👀 Profile Visitors
 <p align="center">
