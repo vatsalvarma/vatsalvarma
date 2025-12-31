@@ -19,7 +19,7 @@
 
 WORKS: 
       <p align="center">
-      <img src="https://media1.tenor.com/m/sJ6fD1leXhUAAAAd/noragami-yato.gif" width="400">
+      <img src="spidey.png.png" width="600">
       </p>
         https://vatsalvarma.github.io/SPIDEY-Live-Website/#home
 
