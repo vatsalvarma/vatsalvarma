@@ -19,9 +19,7 @@
 
 WORKS:  
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" />  
-      <a href="https://vatsalvarma.github.io/SPIDEY-Live-Website/#home" target="_blank">
-  🔗 Visit SPIDEY Live Website
-</a> vist:-> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home
+      vist:-> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home
 
 ## 👀 Profile Visitors
 <p align="center">
