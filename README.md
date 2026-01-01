@@ -29,39 +29,7 @@ WORKS:
 <h2>🔥 My Projects Showcase</h2>
 
 ## 🎮 Project Showcase
-
-<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <clipPath id="clip">
-      <rect x="0" y="0" width="900" height="420" rx="20"/>
-    </clipPath>
-  </defs>
-
-  <g clip-path="url(#clip)">
-    <image href="Screenshot 2025-12-29 224112.png" width="900" height="420">
-      <animate attributeName="opacity" values="1;0" dur="14s" repeatCount="indefinite" />
-    </image>
-    <image href="Screenshot 2025-12-30 160847.png" width="900" height="420">
-      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="2s" repeatCount="indefinite" />
-    </image>
-    <image href="Screenshot 2026-01-01 162736.png" width="900" height="420">
-      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="4s" repeatCount="indefinite" />
-    </image>
-    <image href="Screenshot 2026-01-01 171345.png" width="900" height="420">
-      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="6s" repeatCount="indefinite" />
-    </image>
-    <image href="Screenshot 2026-01-01 185308.png" width="900" height="420">
-      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="8s" repeatCount="indefinite" />
-    </image>
-    <image href="Screenshot 2026-01-01 191311.png" width="900" height="420">
-      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="10s" repeatCount="indefinite" />
-    </image>
-    <image href="Screenshot 2026-01-01 191631.png" width="900" height="420">
-      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="12s" repeatCount="indefinite" />
-    </image>
-  </g>
-</svg>
+![ezgif-37621bfdf11325a0](https://github.com/user-attachments/assets/e19e5274-06bd-477f-be9c-83966f6ded03)
 
 
 ## 👀 Profile Visitors
