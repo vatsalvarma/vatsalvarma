@@ -44,7 +44,6 @@ WORKS:
     height: 100%;
     animation: slide 40s infinite;
   ">
-
     <img src="assets/slider/img1.jpg" style="width:10%; object-fit:cover;">
     <img src="assets/slider/img2.jpg" style="width:10%; object-fit:cover;">
     <img src="assets/slider/img3.jpg" style="width:10%; object-fit:cover;">
