@@ -25,9 +25,6 @@ WORKS:
       vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
 
       <div align="center">
-
-<h2>🔥 My Projects Showcase</h2>
-
 ## 🎮 Project Showcase
 ![ezgif-37621bfdf11325a0](https://github.com/user-attachments/assets/e19e5274-06bd-477f-be9c-83966f6ded03)
 
