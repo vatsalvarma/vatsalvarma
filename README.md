@@ -24,6 +24,65 @@ WORKS:
       (E-commerce website) <br>
       vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
 
+      <div align="center">
+
+<h2>🔥 My Projects Showcase</h2>
+
+<div style="
+  width: 100%;
+  max-width: 900px;
+  height: 420px;
+  overflow: hidden;
+  border-radius: 20px;
+  position: relative;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+">
+
+  <div style="
+    display: flex;
+    width: 1000%;
+    height: 100%;
+    animation: slide 40s infinite;
+  ">
+
+    <img src="assets/slider/img1.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img2.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img3.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img4.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img5.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img6.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img7.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img8.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img9.jpg" style="width:10%; object-fit:cover;">
+    <img src="assets/slider/img10.jpg" style="width:10%; object-fit:cover;">
+
+  </div>
+</div>
+
+<style>
+@keyframes slide {
+  0% { transform: translateX(0%); }
+  10% { transform: translateX(0%); }
+
+  20% { transform: translateX(-100%); }
+  30% { transform: translateX(-100%); }
+
+  40% { transform: translateX(-200%); }
+  50% { transform: translateX(-200%); }
+
+  60% { transform: translateX(-300%); }
+  70% { transform: translateX(-300%); }
+
+  80% { transform: translateX(-400%); }
+  90% { transform: translateX(-400%); }
+
+  100% { transform: translateX(0%); }
+}
+</style>
+
+</div>
+
+
 ## 👀 Profile Visitors
 
 <p align="center">
