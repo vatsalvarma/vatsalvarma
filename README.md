@@ -28,50 +28,40 @@ WORKS:
 
 <h2>🔥 My Projects Showcase</h2>
 
-<div style="
-  width: 100%;
-  max-width: 900px;
-  height: 420px;
-  overflow: hidden;
-  border-radius: 20px;
-  position: relative;
-  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
-">
+## 🎮 Project Showcase
 
-  <div style="
-    display: flex;
-    width: 1000%;
-    height: 100%;
-    animation: slide 40s infinite;
-  ">
-    <img src="assets/slider/img1.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img2.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img3.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img4.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img5.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img6.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img7.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img8.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img9.jpg" style="width:10%; object-fit:cover;">
-    <img src="assets/slider/img10.jpg" style="width:10%; object-fit:cover;">
-  </div>
-</div>
-<style>
- @keyframes slide {
-  0% { transform: translateX(0%); }
-  10% { transform: translateX(0%); }
-  20% { transform: translateX(-100%); }
-  30% { transform: translateX(-100%); }
-  40% { transform: translateX(-200%); }
-  50% { transform: translateX(-200%); }
-  60% { transform: translateX(-300%); }
-  70% { transform: translateX(-300%); }
-  80% { transform: translateX(-400%); }
-  90% { transform: translateX(-400%); }
-  100% { transform: translateX(0%); }
-}
-</style>
-</div>
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="420" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <image href="Screenshot 2025-12-29 224112.png" width="900" height="420">
+      <animate attributeName="opacity" values="1;0" dur="14s" repeatCount="indefinite" />
+    </image>
+    <image href="Screenshot 2025-12-30 160847.png" width="900" height="420">
+      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="2s" repeatCount="indefinite" />
+    </image>
+    <image href="Screenshot 2026-01-01 162736.png" width="900" height="420">
+      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="4s" repeatCount="indefinite" />
+    </image>
+    <image href="Screenshot 2026-01-01 171345.png" width="900" height="420">
+      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="6s" repeatCount="indefinite" />
+    </image>
+    <image href="Screenshot 2026-01-01 185308.png" width="900" height="420">
+      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="8s" repeatCount="indefinite" />
+    </image>
+    <image href="Screenshot 2026-01-01 191311.png" width="900" height="420">
+      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="10s" repeatCount="indefinite" />
+    </image>
+    <image href="Screenshot 2026-01-01 191631.png" width="900" height="420">
+      <animate attributeName="opacity" values="0;1;0" dur="14s" begin="12s" repeatCount="indefinite" />
+    </image>
+  </g>
+</svg>
 
 
 ## 👀 Profile Visitors
