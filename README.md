@@ -24,7 +24,6 @@ WORKS:
       (E-commerce website) <br>
       vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
 
-      <div align="center">
 ## 🎮 Project Showcase
 ![ezgif-37621bfdf11325a0](https://github.com/user-attachments/assets/e19e5274-06bd-477f-be9c-83966f6ded03)
 
