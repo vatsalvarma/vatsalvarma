@@ -9,23 +9,27 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 WORKS:  
-      <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" />  
-      vist: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home (live web-art for fun)<br>
-      portfolio and projects:<br>
-      vist: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
+      <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" /> 
+      ⚠️visit web-art only if u have a high-speed internet and 1-2min for site to load play the music and Enjoy.<br>
+      (live web-art for fun)<br>
+      vist: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home <br>
       (live web-art for fun)<br>
       vist: -> https://vatsalvarma.github.io/NFS-live-website/ <br>
       (live web-art for fun)<br>
       vist: -> https://vatsalvarma.github.io/V-Seasons-Live-Webste/<br>
-      (companysite/portfolio)<br>
-      vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ <br>
-      (game-store) <br>
-      vist: -> https://vatsalvarma.github.io/v-gamestore/ <br>
-      (E-commerce website) <br>
-      vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
 
 ## 🎮 Project Showcase
 ![ezgif-37621bfdf11325a0](https://github.com/user-attachments/assets/e19e5274-06bd-477f-be9c-83966f6ded03)
+      (E-commerce website) <br>
+      vist: -> https://vatsalvarma.github.io/v-ecom.github.io/ <br>
+      (job-portal)<br>
+      visit: -> https://vatsalvarma.github.io/v-jobportal/ <br>
+      (game-store) <br>
+      vist: -> https://vatsalvarma.github.io/v-gamestore/ <br>
+      (companysite/portfolio)<br>
+      vist: -> https://vatsalvarma.github.io/DataScience-portfolio/ <br>
+      portfolio and projects:<br>
+      vist: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
 
 
 ## 👀 Profile Visitors
