@@ -12,7 +12,7 @@ WORKS:
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" /> 
       ⚠️visit web-art only if u have a high-speed internet and 1-2min for site to load play the music and Enjoy.<br>
       (live web-art for fun)<br>
-      visit: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/#home <br>
+      visit: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/ <br>
       (live web-art for fun)<br>
       visit: -> https://vatsalvarma.github.io/NFS-live-website/ <br>
       (live web-art for fun)<br>
@@ -29,7 +29,7 @@ WORKS:
       (companysite/portfolio)<br>
       visit: -> https://vatsalvarma.github.io/DataScience-portfolio/ <br>
       portfolio and projects:<br>
-      visit:-> https://vatsalvarma.github.io/v.github.io/#home <br>
+      visit:-> https://vatsalvarma.github.io/v.github.io/ <br>
       visit: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
 
 
