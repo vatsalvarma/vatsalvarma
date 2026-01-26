@@ -11,11 +11,11 @@
 WORKS:  
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" /> 
       ⚠️visit web-art only if u have a high-speed internet give time 1-2min for site to load then play the music and Enjoy.<br>
-      (live web-art for fun)<br>
+      (live web-art)<br>
       visit: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/ <br>
-      (live web-art for fun)<br>
+      (live web-art)<br>
       visit: -> https://vatsalvarma.github.io/NFS-live-website/ <br>
-      (live web-art for fun)<br>
+      (live web-art)<br>
       visit: -> https://vatsalvarma.github.io/V-Seasons-Live-Webste/<br>
 
 ## 🎮 Project Showcase
@@ -31,6 +31,10 @@ WORKS:
       portfolio and projects:<br>
       visit:-> https://vatsalvarma.github.io/v.github.io/ <br>
       visit: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
+      ---
+      ![ezgif com-optimize (1)](https://github.com/user-attachments/assets/992f3702-2d85-47af-b17c-29a2eeed8fdb)
+      <br>
+      for more visit links explore repo's.
 
 
 ## 👀 Profile Visitors
