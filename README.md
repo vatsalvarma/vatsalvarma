@@ -31,7 +31,6 @@ WORKS:
       portfolio and projects:<br>
       visit:-> https://vatsalvarma.github.io/v.github.io/ <br>
       visit: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
-      ---
       ![ezgif com-optimize (1)](https://github.com/user-attachments/assets/992f3702-2d85-47af-b17c-29a2eeed8fdb)
       <br>
       for more visit links explore repo's.
