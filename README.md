@@ -37,7 +37,7 @@ WORKS:
       visit:-> https://vatsalvarma.github.io/v.github.io/ <br>
       visit: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
       <br>
-      ![ezgif com-optimize (1)](https://github.com/user-attachments/assets/992f3702-2d85-47af-b17c-29a2eeed8fdb)
+      ![ezgif com-optimize](https://github.com/user-attachments/assets/f7290d46-acd2-4e99-bba6-db52b19e34ba)
       <br>
       for more links explore repo's.
 
