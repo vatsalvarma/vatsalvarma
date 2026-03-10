@@ -36,6 +36,7 @@ WORKS:
       portfolio:<br>
       visit:-> https://vatsalvarma.github.io/v.github.io/ <br>
       visit: -> https://vatsalvarma.github.io/Web-Developer.portfolio/ <br>
+      ---
       <img width="1900" height="870" alt="Screenshot 2026-02-15 002741" src="https://github.com/user-attachments/assets/ef8fd8eb-82d0-4b81-9a51-47934e67a66a" />
       <br>
       ![ezgif com-optimize (1)](https://github.com/user-attachments/assets/992f3702-2d85-47af-b17c-29a2eeed8fdb)
