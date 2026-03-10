@@ -11,8 +11,10 @@
 WORKS:  
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" /> 
        ⚠️test site's prat of work<br>
-      (sole store)Link:https://vatsalvarma.github.io/The-Sole-Store/ <br>
-      (drink it up)link:https://vatsalvarma.github.io/Commercial-Drinks/ <br>
+      (sole store)<br>
+      Link:https://vatsalvarma.github.io/The-Sole-Store/ <br>
+      (drink it up)<br>
+      link:https://vatsalvarma.github.io/Commercial-Drinks/ <br>
       ⚠️visit web-art only if u have a high-speed internet give time 1-2min for site to load then play the music and Enjoy.<br>
       (live web-art)<br>
       visit: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/ <br>
