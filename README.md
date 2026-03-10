@@ -12,9 +12,9 @@ WORKS:
       <img width="1897" height="868" alt="spidey png" src="https://github.com/user-attachments/assets/91fb43de-698e-4159-b57e-c447e8652a8d" /> 
        ⚠️note: when the first time site is opend it takes time to load once the data gets stored in cache it loads faster at 2nd or 3rd time.<br>
       (sole store)<br>
-      Link:https://vatsalvarma.github.io/The-Sole-Store/ <br>
+       visit: -> //vatsalvarma.github.io/The-Sole-Store/ <br>
       (drink it up)<br>
-      link:https://vatsalvarma.github.io/Commercial-Drinks/ <br>
+       visit: -> https://vatsalvarma.github.io/Commercial-Drinks/ <br>
       ⚠️visit web-art only if u have a high-speed internet give time 1-2min for site to load then play the music and Enjoy.<br>
       (live web-art)<br>
       visit: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/ <br>
