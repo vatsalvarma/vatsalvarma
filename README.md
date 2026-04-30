@@ -15,6 +15,7 @@ WORKS:
        visit: -> https://vatsalvarma.github.io/The-Sole-Store/ <br>
       (Theme change)<br>
        visit: -> https://vatsalvarma.github.io/Theme-Change-Gsap/ <br>
+       visit: -> https://vatsalvarma.github.io/Theme-switch-GSAP/ <br>
       ⚠️visit web-art only if u have a high-speed internet give time 1-2min for site to load then play the music and Enjoy.<br>
       (live web-art)<br>
       visit: -> https://vatsalvarma.github.io/SPIDEY-Live-Website/ <br>
